@@ -1,0 +1,15 @@
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.csproj.AssemblyReference.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.AssemblyInfoInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.AssemblyInfo.cs
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.csproj.CoreCompileInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\bin\Debug\net6.0\Exercise68.exe
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\bin\Debug\net6.0\Exercise68.deps.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\bin\Debug\net6.0\Exercise68.runtimeconfig.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\bin\Debug\net6.0\Exercise68.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\bin\Debug\net6.0\Exercise68.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\refint\Exercise68.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\Exercise68.genruntimeconfig.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise68\obj\Debug\net6.0\ref\Exercise68.dll
