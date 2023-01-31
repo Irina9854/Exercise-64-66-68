@@ -1,0 +1,15 @@
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.exe
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.deps.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.runtimeconfig.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.csproj.AssemblyReference.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.AssemblyInfoInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.AssemblyInfo.cs
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.csproj.CoreCompileInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\refint\Exercise66.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.genruntimeconfig.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar9\Exercise66\obj\Debug\net6.0\ref\Exercise66.dll
